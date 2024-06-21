@@ -1,0 +1,126 @@
+[
+  {
+    "state": {
+      "name": "Abia State",
+      "id": "NG-AB",
+      "locals": [
+        { "id": "NG-AB-01", "name": "Aba South", "latitude": 5.102, "longitude": 7.3657 },
+        { "id": "NG-AB-02", "name": "Arochukwu", "latitude": 5.3865, "longitude": 7.9076 },
+        { "id": "NG-AB-03", "name": "Bende", "latitude": 5.5654, "longitude": 7.6341 },
+        { "id": "NG-AB-04", "name": "Ikwuano", "latitude": 5.3772, "longitude": 7.601 },
+        { "id": "NG-AB-05", "name": "Isiala Ngwa North", "latitude": 5.4514, "longitude": 7.49 },
+        { "id": "NG-AB-06", "name": "Isiala Ngwa South", "latitude": 5.295, "longitude": 7.3744 },
+        { "id": "NG-AB-07", "name": "Isuikwuato", "latitude": 5.5254, "longitude": 7.4818 },
+        { "id": "NG-AB-08", "name": "Obi Ngwa", "latitude": 5.1764, "longitude": 7.3654 },
+        { "id": "NG-AB-09", "name": "Ohafia", "latitude": 5.6145, "longitude": 7.8228 },
+        { "id": "NG-AB-10", "name": "Osisioma", "latitude": 5.12, "longitude": 7.36 },
+        { "id": "NG-AB-11", "name": "Ugwunagbo", "latitude": 5.0473, "longitude": 7.3043 },
+        { "id": "NG-AB-12", "name": "Ukwa East", "latitude": 4.9994, "longitude": 7.3096 },
+        { "id": "NG-AB-13", "name": "Ukwa West", "latitude": 4.9666, "longitude": 7.2867 },
+        { "id": "NG-AB-14", "name": "Umuahia North", "latitude": 5.5344, "longitude": 7.4814 },
+        { "id": "NG-AB-15", "name": "Umuahia South", "latitude": 5.5016, "longitude": 7.5191 },
+        { "id": "NG-AB-16", "name": "Umu Nneochi", "latitude": 5.5975, "longitude": 7.4964 }
+      ],
+      "cities": [
+        { "id": "NG-AB-C01", "name": "Aba", "latitude": 5.1107, "longitude": 7.3539 },
+        { "id": "NG-AB-C02", "name": "Umuahia", "latitude": 5.532, "longitude": 7.4868 },
+        { "id": "NG-AB-C03", "name": "Ohafia", "latitude": 5.6136, "longitude": 7.8178 },
+        { "id": "NG-AB-C04", "name": "Arochukwu", "latitude": 5.3931, "longitude": 7.9118 },
+        { "id": "NG-AB-C05", "name": "Bende", "latitude": 5.5564, "longitude": 7.6341 }
+      ]
+    }
+  },
+  {
+    "state": {
+      "name": "Cross River State",
+      "id": "NG-CR",
+      "locals": [
+        { "id": "NG-CR-01", "name": "Akamkpa", "latitude": 5.2747, "longitude": 8.3556 },
+        { "id": "NG-CR-02", "name": "Akpabuyo", "latitude": 4.9047, "longitude": 8.3915 },
+        { "id": "NG-CR-03", "name": "Bakassi", "latitude": 4.5715, "longitude": 8.5428 },
+        { "id": "NG-CR-04", "name": "Bekwarra", "latitude": 6.6768, "longitude": 8.9354 },
+        { "id": "NG-CR-05", "name": "Biase", "latitude": 5.4232, "longitude": 8.0264 },
+        { "id": "NG-CR-06", "name": "Boki", "latitude": 6.3525, "longitude": 8.8661 },
+        { "id": "NG-CR-07", "name": "Calabar Municipal", "latitude": 4.9589, "longitude": 8.326 },
+        { "id": "NG-CR-08", "name": "Calabar South", "latitude": 4.9394, "longitude": 8.3265 },
+        { "id": "NG-CR-09", "name": "Etung", "latitude": 6.3168, "longitude": 8.8287 },
+        { "id": "NG-CR-10", "name": "Ikom", "latitude": 5.9668, "longitude": 8.7062 },
+        { "id": "NG-CR-11", "name": "Obanliku", "latitude": 6.6886, "longitude": 9.247 },
+        { "id": "NG-CR-12", "name": "Obubra", "latitude": 6.0754, "longitude": 8.342 },
+        { "id": "NG-CR-13", "name": "Obudu", "latitude": 6.6672, "longitude": 9.1648 },
+        { "id": "NG-CR-14", "name": "Odukpani", "latitude": 5.1381, "longitude": 8.3065 },
+        { "id": "NG-CR-15", "name": "Ogoja", "latitude": 6.6588, "longitude": 8.7996 },
+        { "id": "NG-CR-16", "name": "Yakuur", "latitude": 5.967, "longitude": 8.0507 },
+        { "id": "NG-CR-17", "name": "Yala", "latitude": 6.5583, "longitude": 8.7456 }
+      ],
+      "cities": [
+        { "id": "NG-CR-C01", "name": "Eta Agbor", "latitude": 4.961, "longitude": 8.33 },
+        { "id": "NG-CR-C02", "name": "Marian", "latitude": 4.958, "longitude": 8.327 },
+        { "id": "NG-CR-C03", "name": "Ikom", "latitude": 5.9668, "longitude": 8.7062 },
+        { "id": "NG-CR-C04", "name": "Ogoja", "latitude": 6.6588, "longitude": 8.7996 },
+        { "id": "NG-CR-C05", "name": "Ugep", "latitude": 5.8007, "longitude": 8.0766 },
+        { "id": "NG-CR-C06", "name": "Obudu", "latitude": 6.6672, "longitude": 9.1648 },
+        { "id": "NG-CR-C09", "name": "Atimbo", "latitude": 4.9575, "longitude": 8.3204 },
+        { "id": "NG-CR-C10", "name": "Old Odukpani", "latitude": 4.9551, "longitude": 8.3224 },
+        { "id": "NG-CR-C11", "name": "Ekorinim", "latitude": 4.9413, "longitude": 8.3212 },
+        { "id": "NG-CR-C12", "name": "Uwanse", "latitude": 4.9467, "longitude": 8.3133 }
+      ]
+    }
+  },
+  {
+    "state": {
+      "name": "Rivers State",
+      "id": "NG-RI",
+      "locals": [
+        { "id": "NG-RI-01", "name": "Ahoada East", "latitude": 5.0841, "longitude": 6.6559 },
+        { "id": "NG-RI-02", "name": "Ahoada West", "latitude": 5.2012, "longitude": 6.6274 },
+        { "id": "NG-RI-03", "name": "Akuku-Toru", "latitude": 4.7893, "longitude": 6.7392 },
+        { "id": "NG-RI-04", "name": "Andoni", "latitude": 4.47, "longitude": 7.4581 },
+        { "id": "NG-RI-05", "name": "Asari-Toru", "latitude": 4.5826, "longitude": 6.8044 },
+        { "id": "NG-RI-06", "name": "Bonny", "latitude": 4.4478, "longitude": 7.1681 },
+        { "id": "NG-RI-07", "name": "Degema", "latitude": 4.7681, "longitude": 6.7486 },
+        { "id": "NG-RI-08", "name": "Eleme", "latitude": 4.8327, "longitude": 7.1443 },
+        { "id": "NG-RI-09", "name": "Emuoha", "latitude": 4.8727, "longitude": 6.8679 },
+        { "id": "NG-RI-10", "name": "Etche", "latitude": 5.1147, "longitude": 7.0101 },
+        { "id": "NG-RI-11", "name": "Gokana", "latitude": 4.6546, "longitude": 7.1962 },
+        { "id": "NG-RI-12", "name": "Ikwerre", "latitude": 4.9158, "longitude": 6.8972 },
+        { "id": "NG-RI-13", "name": "Khana", "latitude": 4.676, "longitude": 7.2971 },
+        { "id": "NG-RI-14", "name": "Obio/Akpor", "latitude": 4.8592, "longitude": 7.0098 },
+        { "id": "NG-RI-15", "name": "Ogba/Egbema/Ndoni", "latitude": 5.3446, "longitude": 6.6615 },
+        { "id": "NG-RI-16", "name": "Ogu/Bolo", "latitude": 4.7408, "longitude": 7.1703 },
+        { "id": "NG-RI-17", "name": "Okrika", "latitude": 4.7379, "longitude": 7.0835 },
+        { "id": "NG-RI-18", "name": "Omuma", "latitude": 4.9703, "longitude": 7.2246 },
+        { "id": "NG-RI-19", "name": "Opobo/Nkoro", "latitude": 4.5404, "longitude": 7.2591 },
+        { "id": "NG-RI-20", "name": "Oyigbo", "latitude": 4.9326, "longitude": 7.1341 },
+        { "id": "NG-RI-21", "name": "Port Harcourt", "latitude": 4.8242, "longitude": 7.0336 },
+        { "id": "NG-RI-22", "name": "Tai", "latitude": 4.6763, "longitude": 7.276 }
+      ],
+      "cities": [
+        { "id": "NG-RI-C01", "name": "Port Harcourt", "latitude": 4.8242, "longitude": 7.0336 },
+        { "id": "NG-RI-C02", "name": "Igwuruta", "latitude": 4.896, "longitude": 7.0098 },
+        { "id": "NG-RI-C03", "name": "Bonny", "latitude": 4.4478, "longitude": 7.1681 },
+        { "id": "NG-RI-C04", "name": "Eleme", "latitude": 4.8327, "longitude": 7.1443 },
+        { "id": "NG-RI-C05", "name": "Ahoada", "latitude": 5.0826, "longitude": 6.6512 },
+        { "id": "NG-RI-C06", "name": "Omoku", "latitude": 5.3435, "longitude": 6.656 },
+        {
+          "id": "NG-RI-C07",
+          "name": "Port Harcourt Township",
+          "latitude": 4.7888,
+          "longitude": 7.0134
+        },
+        { "id": "NG-RI-C08", "name": "GRA", "latitude": 4.7977, "longitude": 7.007 },
+        { "id": "NG-RI-C09", "name": "Diobu", "latitude": 4.7977, "longitude": 7.0038 },
+        { "id": "NG-RI-C10", "name": "Trans Amadi", "latitude": 4.8182, "longitude": 7.0667 },
+        { "id": "NG-RI-C11", "name": "Rumukoro", "latitude": 4.8768, "longitude": 7.0243 },
+        { "id": "NG-RI-C12", "name": "Rumuomasi", "latitude": 4.8237, "longitude": 7.015 },
+        { "id": "NG-RI-C13", "name": "Rumuokoro", "latitude": 4.8768, "longitude": 7.0243 },
+        { "id": "NG-RI-C14", "name": "Okrika", "latitude": 4.7379, "longitude": 7.0835 },
+        { "id": "NG-RI-C15", "name": "Obio-Akpor", "latitude": 4.8592, "longitude": 7.0098 },
+        { "id": "NG-RI-C16", "name": "Choba", "latitude": 4.8994, "longitude": 6.927 },
+        { "id": "NG-RI-C17", "name": "Aluu", "latitude": 4.9296, "longitude": 6.9476 },
+        { "id": "NG-RI-C18", "name": "Oyigbo", "latitude": 4.9326, "longitude": 7.1341 },
+        { "id": "NG-RI-C19", "name": "Elelenwo", "latitude": 4.8293, "longitude": 7.0776 }
+      ]
+    }
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "category": "home services",
+    "services": [
+      {
+        "name": "plumbing",
+        "description": "Repair, installation, and maintenance of plumbing fixtures."
+      },
+      {
+        "name": "electrical work",
+        "description": "Electrical repairs, installations, and troubleshooting."
+      },
+      {
+        "name": "appliance repair",
+        "description": "Repair and maintenance of household appliances."
+      },
+      {
+        "name": "hvac services",
+        "description": "Heating, ventilation, and air conditioning system repair and installation."
+      },
+      {
+        "name": "painting",
+        "description": "Interior and exterior painting services."
+      },
+      {
+        "name": "carpentry",
+        "description": "Custom furniture making, repair, and installation."
+      },
+      {
+        "name": "cleaning services",
+        "description": "Regular and deep cleaning services for homes and offices."
+      },
+      {
+        "name": "pest control",
+        "description": "Extermination and prevention of pests."
+      },
+      {
+        "name": "home security services",
+        "description": "Installation and maintenance of security systems."
+      },
+      {
+        "name": "roofing services",
+        "description": "Repair, replacement, and installation of roofs."
+      },
+      {
+        "name": "window cleaning",
+        "description": "Cleaning and maintenance of windows."
+      },
+      {
+        "name": "gardening and landscaping",
+        "description": "Lawn care, garden design, and landscaping services."
+      },
+      {
+        "name": "furniture assembly",
+        "description": "Assembly of furniture items from various retailers."
+      },
+      {
+        "name": "home theater installation",
+        "description": "Setup and installation of home entertainment systems."
+      },
+      {
+        "name": "home renovation",
+        "description": "Full-scale renovation services for kitchens, bathrooms, etc."
+      },
+      {
+        "name": "pool maintenance",
+        "description": "Cleaning and maintenance of swimming pools."
+      },
+      {
+        "name": "drywall installation and repair",
+        "description": "Installation and repair of drywall and plaster."
+      },
+      {
+        "name": "cabinet refacing and installation",
+        "description": "Refacing existing cabinets or installing new ones."
+      },
+      {
+        "name": "flooring installation",
+        "description": "Installation of hardwood, tile, carpet, and other flooring types."
+      },
+      {
+        "name": "home remodeling",
+        "description": "Remodeling and renovation of homes."
+      }
+    ]
+  },
+  {
+    "category": "personal services",
+    "services": [
+      {
+        "name": "beauty services",
+        "description": "Hair styling, makeup, and beauty treatments."
+      },
+      {
+        "name": "fitness training",
+        "description": "Personal training, yoga classes, and fitness coaching."
+      },
+      {
+        "name": "massage therapy",
+        "description": "Relaxation and therapeutic massage services."
+      },
+      {
+        "name": "personal chef services",
+        "description": "Customized meal preparation and cooking."
+      },
+      {
+        "name": "event planning",
+        "description": "Organizing and coordinating events."
+      },
+      {
+        "name": "tutoring",
+        "description": "Private tutoring for academic subjects."
+      },
+      {
+        "name": "personal shopping",
+        "description": "Assistance with shopping for groceries and personal items."
+      },
+      {
+        "name": "photography services",
+        "description": "Professional photography for events, portraits, and products."
+      },
+      {
+        "name": "music lessons",
+        "description": "Private music instruction for various instruments."
+      },
+      {
+        "name": "language classes",
+        "description": "Private tutoring and classes for learning languages."
+      },
+      {
+        "name": "life coaching",
+        "description": "Personal coaching to achieve personal and professional goals."
+      },
+      {
+        "name": "personal styling",
+        "description": "Fashion advice, wardrobe consulting, and personal styling."
+      },
+      {
+        "name": "art classes",
+        "description": "Drawing, painting, and sculpting classes."
+      },
+      {
+        "name": "yoga and meditation classes",
+        "description": "Classes for yoga, meditation, and mindfulness practices."
+      },
+      {
+        "name": "dance lessons",
+        "description": "Private dance instruction for various styles."
+      },
+      {
+        "name": "wedding planning services",
+        "description": "Full-service wedding planning and coordination."
+      },
+      {
+        "name": "personal financial planning",
+        "description": "Financial planning and advisory services for individuals."
+      }
+    ]
+  },
+  {
+    "category": "automotive services",
+    "services": [
+      {
+        "name": "auto repair",
+        "description": "Mechanical and electrical repairs for vehicles."
+      },
+      {
+        "name": "car detailing",
+        "description": "Cleaning and detailing services for cars."
+      },
+      {
+        "name": "towing services",
+        "description": "Roadside assistance and vehicle towing."
+      },
+      {
+        "name": "car wash",
+        "description": "Exterior and interior cleaning services for cars."
+      },
+      {
+        "name": "mobile mechanic services",
+        "description": "On-site vehicle repairs and maintenance."
+      },
+      {
+        "name": "wheel alignment and balancing",
+        "description": "Alignment and balancing of vehicle wheels for optimal performance."
+      },
+      {
+        "name": "diagnostic services",
+        "description": "Advanced diagnostic testing to identify vehicle issues."
+      },
+      {
+        "name": "transmission repair",
+        "description": "Repair and replacement of transmission components."
+      },
+      {
+        "name": "brake inspection and repair",
+        "description": "Inspection, repair, and replacement of brake components."
+      },
+      {
+        "name": "car battery services",
+        "description": "Battery testing, replacement, and jump-start services."
+      },
+      {
+        "name": "windshield replacement",
+        "description": "Replacement of damaged or cracked windshields."
+      },
+      {
+        "name": "auto detailing",
+        "description": "Thorough cleaning and detailing of vehicle interiors and exteriors."
+      },
+      {
+        "name": "wheel repair and refinishing",
+        "description": "Repair and refinishing of damaged or worn-out wheels."
+      }
+    ]
+  },
+  {
+    "category": "tech services",
+    "services": [
+      {
+        "name": "computer repair",
+        "description": "Troubleshooting and repair of computers and peripherals."
+      },
+      {
+        "name": "smart home device installation",
+        "description": "Setup and integration of smart home devices."
+      },
+      {
+        "name": "it support services",
+        "description": "Technical support for software and hardware issues."
+      },
+      {
+        "name": "data recovery",
+        "description": "Recovery of lost data from computers and storage devices."
+      },
+      {
+        "name": "network installation",
+        "description": "Installation and setup of home or office networks."
+      },
+      {
+        "name": "home wi-fi setup",
+        "description": "Installation and setup of Wi-Fi networks for homes."
+      },
+      {
+        "name": "software installation and configuration",
+        "description": "Installation and setup of software applications on computers."
+      },
+      {
+        "name": "virus and malware removal",
+        "description": "Detection and removal of viruses and malware from computers."
+      },
+      {
+        "name": "data backup services",
+        "description": "Setup and management of data backup solutions."
+      },
+      {
+        "name": "cloud computing services",
+        "description": "Setup and management of cloud-based computing solutions."
+      },
+      {
+        "name": "website design and development",
+        "description": "Creation and customization of websites for individuals and businesses."
+      },
+      {
+        "name": "mobile app development",
+        "description": "Development of mobile applications for iOS and Android platforms."
+      },
+      {
+        "name": "cybersecurity consulting",
+        "description": "Consulting services to enhance cybersecurity measures."
+      },
+      {
+        "name": "it infrastructure setup",
+        "description": "Setup and configuration of IT infrastructure for businesses."
+      },
+      {
+        "name": "video conferencing setup",
+        "description": "Installation and setup of video conferencing systems."
+      }
+    ]
+  },
+  {
+    "category": "business services",
+    "services": [
+      {
+        "name": "accounting services",
+        "description": "Bookkeeping, tax preparation, and financial advisory."
+      },
+      {
+        "name": "legal services",
+        "description": "Legal advice, contract drafting, and representation."
+      },
+      {
+        "name": "graphic design",
+        "description": "Logo design, branding, and graphic artwork."
+      },
+      {
+        "name": "content writing",
+        "description": "Copywriting, blog writing, and content creation."
+      },
+      {
+        "name": "virtual assistant services",
+        "description": "Administrative support and remote assistance."
+      },
+      {
+        "name": "marketing and advertising",
+        "description": "Strategic planning and execution of marketing campaigns."
+      },
+      {
+        "name": "social media management",
+        "description": "Management of social media accounts and content creation."
+      },
+      {
+        "name": "search engine optimization (seo)",
+        "description": "Optimization of websites to improve search engine rankings."
+      },
+      {
+        "name": "business consulting",
+        "description": "Consulting services to improve business processes and strategies."
+      },
+      {
+        "name": "financial planning and analysis",
+        "description": "Financial forecasting, budgeting, and analysis."
+      },
+      {
+        "name": "human resources consulting",
+        "description": "Consulting services related to HR policies, recruitment, and training."
+      },
+      {
+        "name": "legal consulting",
+        "description": "Consulting services for legal matters and compliance."
+      },
+      {
+        "name": "virtual office services",
+        "description": "Virtual receptionist, mail handling, and office space solutions."
+      },
+      {
+        "name": "business writing and documentation",
+        "description": "Content creation for business plans, proposals, and reports."
+      },
+      {
+        "name": "project management",
+        "description": "Management and coordination of projects from initiation to completion."
+      }
+    ]
+  },
+  {
+    "category": "errand services",
+    "services": [
+      {
+        "name": "grocery delivery",
+        "description": "Delivery of groceries and household items."
+      },
+      {
+        "name": "moving services",
+        "description": "Packing, loading, transporting, and unpacking belongings during relocation."
+      },
+      {
+        "name": "laundry services",
+        "description": "Pick-up, wash, and delivery of laundry."
+      },
+      {
+        "name": "pet care services",
+        "description": "Pet sitting, grooming, and walking."
+      },
+      {
+        "name": "event support services",
+        "description": "Setting up and managing events."
+      },
+      {
+        "name": "personal shopping",
+        "description": "Shopping for groceries, gifts, and personal items."
+      },
+      {
+        "name": "courier services",
+        "description": "Delivery of packages and important documents."
+      },
+      {
+        "name": "pet sitting",
+        "description": "Care and companionship for pets in the owner's absence."
+      },
+      {
+        "name": "dry cleaning pickup and delivery",
+        "description": "Pickup, cleaning, and delivery of dry-cleaned clothing."
+      },
+      {
+        "name": "event support services",
+        "description": "Setup, coordination, and support for events and gatherings."
+      },
+      {
+        "name": "house sitting or watching",
+        "description": "Monitoring and maintaining a residence while the owner is away."
+      },
+      {
+        "name": "bill payment services",
+        "description": "Handling and paying bills on behalf of clients."
+      },
+      {
+        "name": "medical prescription pickup",
+        "description": "Collection and delivery of prescribed medications."
+      },
+      {
+        "name": "document notarization",
+        "description": "Notarizing documents for legal validity."
+      },
+      {
+        "name": "appointment scheduling",
+        "description": "Scheduling and managing appointments for clients."
+      }
+    ]
+  },
+  {
+    "category": "construction services",
+    "services": [
+      {
+        "name": "general contracting",
+        "description": "Managing and overseeing construction projects."
+      },
+      {
+        "name": "residential construction",
+        "description": "Building new homes and residential properties."
+      },
+      {
+        "name": "commercial construction",
+        "description": "Constructing office buildings, retail spaces, etc."
+      },
+      {
+        "name": "renovation and remodeling",
+        "description": "Improving and updating existing structures."
+      },
+      {
+        "name": "roofing services",
+        "description": "Installation and repair of roofs."
+      },
+      {
+        "name": "concrete work",
+        "description": "Pouring and finishing concrete for various applications."
+      },
+      {
+        "name": "foundation repair",
+        "description": "Stabilizing and repairing building foundations."
+      },
+      {
+        "name": "landscaping and outdoor design",
+        "description": "Designing and implementing outdoor spaces."
+      },
+      {
+        "name": "interior design",
+        "description": "Creating functional and aesthetically pleasing interiors."
+      },
+      {
+        "name": "custom home building",
+        "description": "Building bespoke homes tailored to client specifications."
+      }
+    ]
+  },
+  {
+    "category": "furniture services",
+    "services": [
+      {
+        "name": "furniture assembly",
+        "description": "Assembly of furniture items."
+      },
+      {
+        "name": "custom furniture design",
+        "description": "Design and fabrication of furnitures."
+      },
+      {
+        "name": "furniture repair and refinishing",
+        "description": "Repairing and restoring damaged or worn-out furniture."
+      },
+      {
+        "name": "upholstery services",
+        "description": "Replacing or repairing upholstery on furniture."
+      },
+      {
+        "name": "furniture restoration",
+        "description": "Preservation and restoration of antique or historic furniture."
+      },
+      {
+        "name": "office furniture installation",
+        "description": "Installation and setup of office furniture systems."
+      },
+      {
+        "name": "furniture disassembly and moving",
+        "description": "Disassembly and moving of furniture for relocation or storage."
+      },
+      {
+        "name": "furniture rental services",
+        "description": "Renting furniture for short-term or event use."
+      },
+      {
+        "name": "outdoor furniture maintenance",
+        "description": "Cleaning and maintenance of outdoor furniture."
+      },
+      {
+        "name": "kitchen cabinet installation",
+        "description": "Installation of kitchen cabinets and storage solutions."
+      },
+      {
+        "name": "carpenter services",
+        "description": "General carpentry services for furniture and structures."
+      },
+      {
+        "name": "garden furniture",
+        "description": "Design, assembly, and maintenance of outdoor furniture."
+      },
+      {
+        "name": "installation of furniture",
+        "description": "Professional installation of various types of furniture."
+      },
+      {
+        "name": "kitchen renovation",
+        "description": "Remodeling and renovation of kitchen spaces."
+      },
+      {
+        "name": "sauna installation",
+        "description": "Installation and setup of saunas for residential or commercial use."
+      },
+      {
+        "name": "upholstery services",
+        "description": "Replacing or repairing upholstery on furniture."
+      },
+      {
+        "name": "wooden panelling",
+        "description": "Installation and maintenance of wooden panels for interior design."
+      },
+      {
+        "name": "wooden stair construction",
+        "description": "Design and construction of wooden staircases."
+      },
+      {
+        "name": "woodwork",
+        "description": "Custom woodwork and carpentry services."
+      }
+    ]
+  }
+]

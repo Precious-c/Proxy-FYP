@@ -1,0 +1,1544 @@
+[
+  {
+    "providerId": "1",
+    "providerName": "Adebola Services",
+    "email": "info@adebolaservices.ng",
+    "phone": "+2348123456789",
+    "password": "securePassword123",
+    "profilePicture": "https://example.com/profiles/adebola.jpg",
+    "bio": "We offer top-notch services in home cleaning and maintenance.",
+    "reviewCount": 15,
+    "providerUrl": "https://adebolaservices.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["cleaning", "maintenance", "home services"],
+    "location": {
+      "address": "123 Adeola Odeku Street",
+      "city": "Victoria Island",
+      "state": "Lagos",
+      "postalCode": "101241",
+      "country": "Nigeria",
+      "latitude": 6.5244,
+      "longitude": 3.3792
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "101",
+        "serviceName": "House Cleaning",
+        "description": "Comprehensive house cleaning services",
+        "price": 10000,
+        "duration": 120
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "saturday": [],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/cleaning1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "201",
+        "customerId": "301",
+        "rating": 4.5,
+        "comment": "Great service, very professional.",
+        "date": "2023-01-15"
+      }
+    ],
+    "rating": 4.5,
+    "experienceYears": 5,
+    "certifications": [
+      {
+        "certificationId": "401",
+        "name": "Certified Cleaner",
+        "issuer": "Cleaning Association of Nigeria",
+        "issueDate": "2020-01-01",
+        "expiryDate": "2025-01-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "501",
+        "title": "Luxury Apartment Cleaning",
+        "description": "Detailed cleaning of a luxury apartment in Ikoyi",
+        "images": ["https://example.com/projects/apartment1.jpg"],
+        "date": "2023-02-01"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-05-01T10:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z"
+  },
+  {
+    "providerId": "2",
+    "providerName": "Chukwu Electricians",
+    "email": "contact@chukwuelectricians.ng",
+    "phone": "+2348098765432",
+    "password": "electricianSecure!45",
+    "profilePicture": "https://example.com/profiles/chukwu.jpg",
+    "bio": "Expert electrical solutions for residential and commercial properties.",
+    "reviewCount": 20,
+    "providerUrl": "https://chukwuelectricians.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["electrician", "repairs", "installations"],
+    "location": {
+      "address": "45 Allen Avenue",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "postalCode": "100281",
+      "country": "Nigeria",
+      "latitude": 6.6059,
+      "longitude": 3.3491
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "102",
+        "serviceName": "Electrical Repairs",
+        "description": "Professional electrical repair services",
+        "price": 15000,
+        "duration": 90
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/electrical1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "202",
+        "customerId": "302",
+        "rating": 4.0,
+        "comment": "Quick and efficient service.",
+        "date": "2023-02-10"
+      }
+    ],
+    "rating": 4.0,
+    "experienceYears": 10,
+    "certifications": [
+      {
+        "certificationId": "402",
+        "name": "Certified Electrician",
+        "issuer": "Electricians Guild of Nigeria",
+        "issueDate": "2018-06-15",
+        "expiryDate": "2023-06-15"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "502",
+        "title": "Office Wiring",
+        "description": "Complete wiring of a new office building in Lekki",
+        "images": ["https://example.com/projects/office1.jpg"],
+        "date": "2023-03-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-06-15T08:00:00Z",
+    "updatedAt": "2023-06-15T10:00:00Z"
+  },
+  {
+    "providerId": "3",
+    "providerName": "Iya Bisola Catering",
+    "email": "iyabisola@catering.ng",
+    "phone": "+2348076543210",
+    "password": "caterWithLove123",
+    "profilePicture": "https://example.com/profiles/iyabisola.jpg",
+    "bio": "Delicious and authentic Nigerian cuisine for all events.",
+    "reviewCount": 35,
+    "providerUrl": "https://iyabisolacatering.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["catering", "events", "food"],
+    "location": {
+      "address": "12 Obafemi Awolowo Way",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "postalCode": "100271",
+      "country": "Nigeria",
+      "latitude": 6.6018,
+      "longitude": 3.3515
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "103",
+        "serviceName": "Event Catering",
+        "description": "Full-service catering for all types of events",
+        "price": 200000,
+        "duration": 240
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "08:00",
+          "endTime": "17:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "09:00",
+          "endTime": "15:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/catering1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "203",
+        "customerId": "303",
+        "rating": 4.8,
+        "comment": "The food was amazing and the service was excellent.",
+        "date": "2023-03-05"
+      }
+    ],
+    "rating": 4.8,
+    "experienceYears": 12,
+    "certifications": [
+      {
+        "certificationId": "403",
+        "name": "Certified Caterer",
+        "issuer": "Catering Association of Nigeria",
+        "issueDate": "2019-03-01",
+        "expiryDate": "2024-03-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "503",
+        "title": "Wedding Catering",
+        "description": "Catering for a large wedding in Victoria Island",
+        "images": ["https://example.com/projects/wedding1.jpg"],
+        "date": "2023-04-20"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-07-01T09:00:00Z",
+    "updatedAt": "2023-07-01T11:00:00Z"
+  },
+  {
+    "providerId": "4",
+    "providerName": "Fola's Fitness",
+    "email": "info@folasfitness.ng",
+    "phone": "+2347065432109",
+    "password": "fitAndFab2021",
+    "profilePicture": "https://example.com/profiles/fola.jpg",
+    "bio": "Personal training and fitness programs tailored to your needs.",
+    "reviewCount": 25,
+    "providerUrl": "https://folasfitness.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["fitness", "personal training", "health"],
+    "location": {
+      "address": "22 Admiralty Way",
+      "city": "Lekki",
+      "state": "Lagos",
+      "postalCode": "105102",
+      "country": "Nigeria",
+      "latitude": 6.4301,
+      "longitude": 3.4565
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "104",
+        "serviceName": "Personal Training",
+        "description": "One-on-one personal training sessions",
+        "price": 5000,
+        "duration": 60
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "06:00",
+          "endTime": "20:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "06:00",
+          "endTime": "20:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "06:00",
+          "endTime": "20:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "06:00",
+          "endTime": "20:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "06:00",
+          "endTime": "20:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "08:00",
+          "endTime": "14:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/fitness1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "204",
+        "customerId": "304",
+        "rating": 4.7,
+        "comment": "Fola is a great trainer and really helped me get in shape.",
+        "date": "2023-04-10"
+      }
+    ],
+    "rating": 4.7,
+    "experienceYears": 8,
+    "certifications": [
+      {
+        "certificationId": "404",
+        "name": "Certified Personal Trainer",
+        "issuer": "Fitness Nigeria",
+        "issueDate": "2021-02-01",
+        "expiryDate": "2026-02-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "504",
+        "title": "Corporate Wellness Program",
+        "description": "Fitness program for a corporate client in Lagos",
+        "images": ["https://example.com/projects/wellness1.jpg"],
+        "date": "2023-05-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-08-01T07:00:00Z",
+    "updatedAt": "2023-08-01T09:00:00Z"
+  },
+  {
+    "providerId": "5",
+    "providerName": "Kemi's Hair Salon",
+    "email": "contact@kemishairsalon.ng",
+    "phone": "+2347054321098",
+    "password": "hairCare2021",
+    "profilePicture": "https://example.com/profiles/kemi.jpg",
+    "bio": "Professional hair care and styling services for all hair types.",
+    "reviewCount": 50,
+    "providerUrl": "https://kemishairsalon.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["hair", "salon", "beauty"],
+    "location": {
+      "address": "30 Bode Thomas Street",
+      "city": "Surulere",
+      "state": "Lagos",
+      "postalCode": "101283",
+      "country": "Nigeria",
+      "latitude": 6.5003,
+      "longitude": 3.3519
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "105",
+        "serviceName": "Hair Styling",
+        "description": "Professional hair styling services",
+        "price": 12000,
+        "duration": 90
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "19:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "19:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "19:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "19:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "19:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/hair1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "XXX",
+        "customerId": "XXX",
+        "rating": 4.9,
+        "comment": "Kemi's hair salon is the best! Highly recommended.",
+        "date": "2023-05-05"
+      }
+    ],
+    "rating": 4.9,
+    "experienceYears": 15,
+    "certifications": [{}]
+  },
+  {
+    "providerId": "6",
+    "providerName": "Tunde's Plumbing Services",
+    "email": "info@tundesplumbing.ng",
+    "phone": "+2348132456789",
+    "password": "plumbSecure456",
+    "profilePicture": "https://example.com/profiles/tunde.jpg",
+    "bio": "Expert plumbing solutions for residential and commercial buildings.",
+    "reviewCount": 18,
+    "providerUrl": "https://tundesplumbing.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["plumbing", "repairs", "installations"],
+    "location": {
+      "address": "17 Adeola Hopewell Street",
+      "city": "Victoria Island",
+      "state": "Lagos",
+      "postalCode": "101241",
+      "country": "Nigeria",
+      "latitude": 6.4276,
+      "longitude": 3.4196
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "106",
+        "serviceName": "Pipe Repairs",
+        "description": "Professional pipe repair services",
+        "price": 8000,
+        "duration": 60
+      },
+      {
+        "serviceId": "107",
+        "serviceName": "Plumbing Installations",
+        "description": "Installation of plumbing fixtures and systems",
+        "price": 15000,
+        "duration": 120
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:30"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "09:00",
+          "endTime": "14:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/plumbing1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "206",
+        "customerId": "306",
+        "rating": 4.3,
+        "comment": "Efficient service and very professional.",
+        "date": "2023-05-20"
+      }
+    ],
+    "rating": 4.3,
+    "experienceYears": 7,
+    "certifications": [
+      {
+        "certificationId": "406",
+        "name": "Certified Plumber",
+        "issuer": "Plumbers Association of Nigeria",
+        "issueDate": "2017-09-01",
+        "expiryDate": "2022-09-01"
+      },
+      {
+        "certificationId": "407",
+        "name": "Master Plumber",
+        "issuer": "International Plumbing Council",
+        "issueDate": "2022-01-01",
+        "expiryDate": "2027-01-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "506",
+        "title": "Commercial Building Plumbing",
+        "description": "Complete plumbing installation for a new office building",
+        "images": ["https://example.com/projects/commercial1.jpg"],
+        "date": "2023-06-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-09-01T08:30:00Z",
+    "updatedAt": "2023-09-01T10:30:00Z"
+  },
+  {
+    "providerId": "7",
+    "providerName": "Yemi's Legal Consultancy",
+    "email": "yemi@legalconsult.ng",
+    "phone": "+2348098765432",
+    "password": "legalAdvice123!",
+    "profilePicture": "https://example.com/profiles/yemi.jpg",
+    "bio": "Comprehensive legal services for individuals and businesses.",
+    "reviewCount": 28,
+    "providerUrl": "https://yemilegalconsult.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["legal", "consultancy", "advice"],
+    "location": {
+      "address": "25 Marina Street",
+      "city": "Marina",
+      "state": "Lagos",
+      "postalCode": "100221",
+      "country": "Nigeria",
+      "latitude": 6.4541,
+      "longitude": 3.3942
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "108",
+        "serviceName": "Legal Consultation",
+        "description": "Professional legal consultation services",
+        "price": 25000,
+        "duration": 60
+      },
+      {
+        "serviceId": "109",
+        "serviceName": "Contract Drafting",
+        "description": "Drafting and reviewing contracts for businesses",
+        "price": 35000,
+        "duration": 120
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/legal1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "207",
+        "customerId": "307",
+        "rating": 4.6,
+        "comment": "Very knowledgeable and professional. Helped us tremendously.",
+        "date": "2023-07-10"
+      }
+    ],
+    "rating": 4.6,
+    "experienceYears": 15,
+    "certifications": [
+      {
+        "certificationId": "408",
+        "name": "Certified Legal Consultant",
+        "issuer": "Legal Practitioners Council of Nigeria",
+        "issueDate": "2010-03-01",
+        "expiryDate": "2025-03-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "507",
+        "title": "Corporate Legal Advice",
+        "description": "Provided legal advice to a multinational corporation",
+        "images": ["https://example.com/projects/legal2.jpg"],
+        "date": "2023-08-20"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-10-01T09:00:00Z",
+    "updatedAt": "2023-10-01T11:00:00Z"
+  },
+  {
+    "providerId": "8",
+    "providerName": "Abuja Car Rentals",
+    "email": "rentals@abujacars.ng",
+    "phone": "+2348145678901",
+    "password": "driveWithUs456",
+    "profilePicture": "https://example.com/profiles/abuja-cars.jpg",
+    "bio": "Wide range of cars for rent in Abuja with excellent customer service.",
+    "reviewCount": 22,
+    "providerUrl": "https://abujacars.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["car rentals", "vehicles", "transportation"],
+    "location": {
+      "address": "15 Herbert Macaulay Way",
+      "city": "Abuja",
+      "state": "FCT",
+      "postalCode": "900001",
+      "country": "Nigeria",
+      "latitude": 9.0586,
+      "longitude": 7.4891
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "110",
+        "serviceName": "Car Rentals",
+        "description": "Short-term and long-term car rentals",
+        "price": 25000,
+        "duration": 24
+      },
+      {
+        "serviceId": "111",
+        "serviceName": "Airport Transfer",
+        "description": "Pick-up and drop-off services from Abuja Airport",
+        "price": 15000,
+        "duration": 60
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "07:00",
+          "endTime": "19:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "07:00",
+          "endTime": "19:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "07:00",
+          "endTime": "19:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "07:00",
+          "endTime": "19:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "07:00",
+          "endTime": "19:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "08:00",
+          "endTime": "16:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/cars1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "208",
+        "customerId": "308",
+        "rating": 4.5,
+        "comment": "Great service and clean cars. Would rent again.",
+        "date": "2023-08-05"
+      }
+    ],
+    "rating": 4.5,
+    "experienceYears": 10,
+    "certifications": [],
+    "portfolio": [
+      {
+        "projectId": "508",
+        "title": "VIP Car Rentals",
+        "description": "Provided luxury car rentals for a high-profile event",
+        "images": ["https://example.com/projects/cars2.jpg"],
+        "date": "2023-09-10"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-11-01T07:00:00Z",
+    "updatedAt": "2023-11-01T09:00:00Z"
+  },
+  {
+    "providerId": "9",
+    "providerName": "Chika's Fashion Boutique",
+    "email": "info@chikasboutique.ng",
+    "phone": "+2348098765432",
+    "password": "style2021!",
+    "profilePicture": "https://example.com/profiles/chika.jpg",
+    "bio": "Trendy fashion items and accessories for men and women.",
+    "reviewCount": 35,
+    "providerUrl": "https://chikasboutique.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["fashion", "clothing", "accessories"],
+    "location": {
+      "address": "5 Allen Avenue",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "postalCode": "100281",
+      "country": "Nigeria",
+      "latitude": 6.5951,
+      "longitude": 3.3426
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "112",
+        "serviceName": "Fashion Consultation",
+        "description": "Personalized fashion advice and styling",
+        "price": 5000,
+        "duration": 60
+      },
+      {
+        "serviceId": "113",
+        "serviceName": "Clothing Sales",
+        "description": "Sale of trendy and fashionable clothing",
+        "price": 20000,
+        "duration": 0
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "11:00",
+          "endTime": "16:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/fashion1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "209",
+        "customerId": "309",
+        "rating": 4.8,
+        "comment": "Amazing collection and excellent service.",
+        "date": "2023-09-20"
+      }
+    ],
+    "rating": 4.8,
+    "experienceYears": 5,
+    "certifications": [],
+    "portfolio": [
+      {
+        "projectId": "509",
+        "title": "Fashion Show",
+        "description": "Organized a fashion show showcasing latest trends",
+        "images": ["https://example.com/projects/fashion1.jpg"],
+        "date": "2023-10-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2022-12-01T10:00:00Z",
+    "updatedAt": "2023-12-01T12:00:00Z"
+  },
+  {
+    "providerId": "10",
+    "providerName": "Femi's IT Solutions",
+    "email": "info@femisitsolutions.ng",
+    "phone": "+2348087654321",
+    "password": "tech4All!",
+    "profilePicture": "https://example.com/profiles/femi.jpg",
+    "bio": "Cutting-edge IT solutions for businesses and individuals.",
+    "reviewCount": 15,
+    "providerUrl": "https://femisitsolutions.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["IT", "technology", "solutions"],
+    "location": {
+      "address": "8 Obafemi Awolowo Way",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "postalCode": "100271",
+      "country": "Nigeria",
+      "latitude": 6.6018,
+      "longitude": 3.3515
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "114",
+        "serviceName": "Website Development",
+        "description": "Design and development of professional websites",
+        "price": 50000,
+        "duration": 240
+      },
+      {
+        "serviceId": "115",
+        "serviceName": "IT Consultation",
+        "description": "Consultation services for IT infrastructure",
+        "price": 30000,
+        "duration": 60
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "saturday": [],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/it1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "210",
+        "customerId": "310",
+        "rating": 4.5,
+        "comment": "Professional and reliable IT services. Highly recommend.",
+        "date": "2023-11-10"
+      }
+    ],
+    "rating": 4.5,
+    "experienceYears": 10,
+    "certifications": [
+      {
+        "certificationId": "410",
+        "name": "Certified IT Professional",
+        "issuer": "Nigerian Computer Society",
+        "issueDate": "2018-04-01",
+        "expiryDate": "2023-04-01"
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "510",
+        "title": "E-commerce Website",
+        "description": "Developed an e-commerce website for a retail client",
+        "images": ["https://example.com/projects/it2.jpg"],
+        "date": "2023-12-20"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-01-01T09:00:00Z",
+    "updatedAt": "2024-01-01T11:00:00Z"
+  },
+  {
+    "providerId": "11",
+    "providerName": "Ngozi's Catering Services",
+    "email": "info@ngozi-catering.ng",
+    "phone": "+2348176543210",
+    "password": "deliciousFood123!",
+    "profilePicture": "https://example.com/profiles/ngozi.jpg",
+    "bio": "Specializing in exquisite catering services for events and parties.",
+    "reviewCount": 25,
+    "providerUrl": "https://ngozi-catering.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["catering", "food", "events"],
+    "location": {
+      "address": "12 Ajose Adeogun Street",
+      "city": "Victoria Island",
+      "state": "Lagos",
+      "postalCode": "101241",
+      "country": "Nigeria",
+      "latitude": 6.4285,
+      "longitude": 3.4199
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "116",
+        "serviceName": "Event Catering",
+        "description": "Full-service catering for weddings and corporate events",
+        "price": 100000,
+        "duration": 0
+      },
+      {
+        "serviceId": "117",
+        "serviceName": "Private Chef Services",
+        "description": "Personalized chef services for private parties",
+        "price": 50000,
+        "duration": 0
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "10:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "12:00",
+          "endTime": "22:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/catering1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "211",
+        "customerId": "311",
+        "rating": 4.7,
+        "comment": "Exceptional food and service. Made our event memorable.",
+        "date": "2023-12-01"
+      }
+    ],
+    "rating": 4.7,
+    "experienceYears": 12,
+    "certifications": [],
+    "portfolio": [
+      {
+        "projectId": "511",
+        "title": "Wedding Catering",
+        "description": "Provided catering for a luxury wedding event",
+        "images": ["https://example.com/projects/catering2.jpg"],
+        "date": "2024-01-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-02-01T10:00:00Z",
+    "updatedAt": "2024-02-01T12:00:00Z"
+  },
+  {
+    "providerId": "12",
+    "providerName": "Bolaji's Fitness Hub",
+    "email": "info@bolaji-fitness.ng",
+    "phone": "+2348123456789",
+    "password": "fitandhealthy2024!",
+    "profilePicture": "https://example.com/profiles/bolaji.jpg",
+    "bio": "State-of-the-art fitness center offering personalized training programs.",
+    "reviewCount": 30,
+    "providerUrl": "https://bolaji-fitness.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["fitness", "gym", "training"],
+    "location": {
+      "address": "20 Adeola Odeku Street",
+      "city": "Victoria Island",
+      "state": "Lagos",
+      "postalCode": "101241",
+      "country": "Nigeria",
+      "latitude": 6.4288,
+      "longitude": 3.4201
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "118",
+        "serviceName": "Personal Training",
+        "description": "One-on-one fitness training sessions",
+        "price": 15000,
+        "duration": 60
+      },
+      {
+        "serviceId": "119",
+        "serviceName": "Group Fitness Classes",
+        "description": "Various group fitness classes for all fitness levels",
+        "price": 8000,
+        "duration": 60
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "06:00",
+          "endTime": "21:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "06:00",
+          "endTime": "21:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "06:00",
+          "endTime": "21:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "06:00",
+          "endTime": "21:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "06:00",
+          "endTime": "21:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/fitness1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "212",
+        "customerId": "312",
+        "rating": 4.9,
+        "comment": "Fantastic facilities and excellent trainers. Highly recommend.",
+        "date": "2024-02-10"
+      }
+    ],
+    "rating": 4.9,
+    "experienceYears": 8,
+    "certifications": [],
+    "portfolio": [
+      {
+        "projectId": "512",
+        "title": "Fitness Challenge",
+        "description": "Organized a fitness challenge event promoting health and wellness",
+        "images": ["https://example.com/projects/fitness2.jpg"],
+        "date": "2024-03-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-03-01T06:00:00Z",
+    "updatedAt": "2024-03-01T08:00:00Z"
+  },
+  {
+    "providerId": "13",
+    "providerName": "Jide's Photography Studio",
+    "email": "info@jidesphotos.ng",
+    "phone": "+2348076543210",
+    "password": "captureMoments456!",
+    "profilePicture": "https://example.com/profiles/jide.jpg",
+    "bio": "Capturing beautiful moments with professional photography services.",
+    "reviewCount": 20,
+    "providerUrl": "https://jidesphotos.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["photography", "photoshoots", "events"],
+    "location": {
+      "address": "30 Isaac John Street",
+      "city": "Ikeja",
+      "state": "Lagos",
+      "postalCode": "100271",
+      "country": "Nigeria",
+      "latitude": 6.5844,
+      "longitude": 3.3525
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "120",
+        "serviceName": "Event Photography",
+        "description": "Professional photography coverage for events",
+        "price": 50000,
+        "duration": 180
+      },
+      {
+        "serviceId": "121",
+        "serviceName": "Portrait Sessions",
+        "description": "Customized portrait photography sessions",
+        "price": 20000,
+        "duration": 60
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/photos1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "213",
+        "customerId": "313",
+        "rating": 4.6,
+        "comment": "Excellent photography skills and great customer service.",
+        "date": "2024-04-05"
+      }
+    ],
+    "rating": 4.6,
+    "experienceYears": 15,
+    "certifications": [
+      {
+        "certificationId": "411",
+        "name": "Certified Professional Photographer",
+        "issuer": "Photographers Guild of Nigeria",
+        "issueDate": "2010-06-15",
+        "expiryDate": null
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "513",
+        "title": "Wedding Photography",
+        "description": "Captured moments from a beautiful wedding ceremony",
+        "images": ["https://example.com/projects/photos2.jpg"],
+        "date": "2024-05-20"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-04-01T09:00:00Z",
+    "updatedAt": "2024-04-01T11:00:00Z"
+  },
+  {
+    "providerId": "14",
+    "providerName": "Aisha's Legal Consultancy",
+    "email": "info@aishalegal.ng",
+    "phone": "+2348098765432",
+    "password": "legalAdvisory2023!",
+    "profilePicture": "https://example.com/profiles/aisha.jpg",
+    "bio": "Providing expert legal advice and representation to individuals and businesses.",
+    "reviewCount": 40,
+    "providerUrl": "https://aishalegal.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["legal", "consultancy", "advisory"],
+    "location": {
+      "address": "15 Marina Street",
+      "city": "Lagos Island",
+      "state": "Lagos",
+      "postalCode": "101001",
+      "country": "Nigeria",
+      "latitude": 6.4541,
+      "longitude": 3.3958
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "122",
+        "serviceName": "Legal Advisory",
+        "description": "Expert legal advice on various legal matters",
+        "price": 20000,
+        "duration": 60
+      },
+      {
+        "serviceId": "123",
+        "serviceName": "Contract Drafting",
+        "description": "Drafting and reviewing legal contracts",
+        "price": 30000,
+        "duration": 120
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00"
+        }
+      ],
+      "saturday": [],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/legal1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "214",
+        "customerId": "314",
+        "rating": 4.8,
+        "comment": "Extremely knowledgeable and professional legal services.",
+        "date": "2024-05-10"
+      }
+    ],
+    "rating": 4.8,
+    "experienceYears": 18,
+    "certifications": [
+      {
+        "certificationId": "412",
+        "name": "Certified Legal Practitioner",
+        "issuer": "Nigerian Bar Association",
+        "issueDate": "2006-07-20",
+        "expiryDate": null
+      }
+    ],
+    "portfolio": [
+      {
+        "projectId": "514",
+        "title": "Land Dispute Case",
+        "description": "Successfully represented a client in a land dispute case",
+        "images": ["https://example.com/projects/legal2.jpg"],
+        "date": "2024-06-15"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-05-01T09:00:00Z",
+    "updatedAt": "2024-05-01T11:00:00Z"
+  },
+  {
+    "providerId": "15",
+    "providerName": "Emeka's Auto Repair Shop",
+    "email": "info@emekaautos.ng",
+    "phone": "+2348065432109",
+    "password": "autoRepair2023!",
+    "profilePicture": "https://example.com/profiles/emeka.jpg",
+    "bio": "Providing expert automotive repair and maintenance services.",
+    "reviewCount": 50,
+    "providerUrl": "https://emekaautos.ng",
+    "providerMapUrl": "https://maps.google.com/?q=6.5244,3.3792",
+    "providerTags": ["automotive", "repair", "maintenance"],
+    "location": {
+      "address": "25 Herbert Macaulay Way",
+      "city": "Yaba",
+      "state": "Lagos",
+      "postalCode": "100001",
+      "country": "Nigeria",
+      "latitude": 6.5157,
+      "longitude": 3.3667
+    },
+    "servicesOffered": [
+      {
+        "serviceId": "124",
+        "serviceName": "Engine Diagnostics",
+        "description": "Advanced diagnostics and troubleshooting for engines",
+        "price": 15000,
+        "duration": 60
+      },
+      {
+        "serviceId": "125",
+        "serviceName": "Brake Repair",
+        "description": "Repair and replacement of brake components",
+        "price": 20000,
+        "duration": 90
+      }
+    ],
+    "availability": {
+      "monday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "thursday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "friday": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00"
+        }
+      ],
+      "saturday": [
+        {
+          "startTime": "09:00",
+          "endTime": "15:00"
+        }
+      ],
+      "sunday": []
+    },
+    "providerImages": ["https://example.com/images/auto1.jpg"],
+    "reviews": [
+      {
+        "reviewId": "215",
+        "customerId": "315",
+        "rating": 4.9,
+        "comment": "Reliable and efficient service. Fixed my car issues promptly.",
+        "date": "2024-06-05"
+      }
+    ],
+    "rating": 4.9,
+    "experienceYears": 20,
+    "certifications": [],
+    "portfolio": [
+      {
+        "projectId": "515",
+        "title": "Classic Car Restoration",
+        "description": "Restored a classic car to pristine condition",
+        "images": ["https://example.com/projects/auto2.jpg"],
+        "date": "2024-07-10"
+      }
+    ],
+    "status": "active",
+    "createdAt": "2023-06-01T08:00:00Z",
+    "updatedAt": "2024-06-01T10:00:00Z"
+  }
+]

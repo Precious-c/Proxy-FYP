@@ -5,5 +5,11 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-react": "^7.34.1",
     "globals": "^15.1.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/x-date-pickers": "^7.7.0",
+    "dayjs": "^1.11.11"
   }
 }

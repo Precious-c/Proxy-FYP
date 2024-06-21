@@ -1,0 +1,91 @@
+//Service provider
+{
+  "providerId": "string",                     // Unique identifier for the service provider
+  "providerName": "string",                   // Full name of the service provider
+  "email": "string",                  // Email address
+  "phone": "string",                  // Contact number
+  "password": "string",               // Encrypted password
+  "profilePicture": "string",         // URL to the profile picture
+  "bio": "string",                    // Brief bio or description of the service provider
+  "reviewCount": "number"
+  "providerUrl": "string"              //https://example.com/provider",
+    "providerMapUrl":"string"           //https://example.com/provider/map"
+    "providerTags": ["string"]
+  "location": {
+    "address": "string",              // Street address
+    "city": "string",                 // City
+    "state": "string",                // State or province
+    "postalCode": "string",           // Postal or ZIP code
+    "country": "string",              // Country
+    "latitude": "number",             // Latitude for geolocation
+    "longitude": "number"             // Longitude for geolocation
+  },
+  
+  "servicesOffered": [                // List of services offered
+    {
+      "serviceId": "string",          // Unique identifier for the service
+      "serviceName": "string",        // Name of the service
+      "description": "string",        // Description of the service
+      "price": "number",              // Price of the service
+      "duration": "number"            // Duration of the service in minutes or hours
+    }
+  ],
+  "availability": {                   // Availability schedule
+    "monday": [                       // Array of available time slots for each day
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "tuesday": [
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "wednesday": [
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "thursday": [
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "friday": [
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "saturday": [
+      { "startTime": "string", "endTime": "string" }
+    ],
+    "sunday": [
+      { "startTime": "string", "endTime": "string" }
+    ]
+  },
+  "providerImages": ["string"],
+  "reviews": [                        // List of reviews from customers
+    {
+      "reviewId": "string",           // Unique identifier for the review
+      "customerId": "string",         // Unique identifier for the customer
+      "rating": "number",             // Rating given by the customer (e.g., 1 to 5)
+      "comment": "string",            // Review comment
+      "date": "string"                // Date of the review
+    }
+  ],
+  "rating": "number",                 // Average rating(1-5)
+  "experienceYears": "number",        // Years of experience
+  "certifications": [                 // List of certifications
+    {
+      "certificationId": "string",    // Unique identifier for the certification
+      "name": "string",               // Name of the certification
+      "issuer": "string",             // Issuing organization
+      "issueDate": "string",          // Date when the certification was issued
+      "expiryDate": "string"          // Expiry date of the certification, if applicable
+    }
+  ],
+  "portfolio": [                      // Portfolio of past work
+    {
+      "projectId": "string",          // Unique identifier for the project
+      "title": "string",              // Title of the project
+      "description": "string",        // Description of the project
+      "images": ["string"],           // Array of image URLs
+      "date": "string"                // Date of the project
+    }
+  ],
+  "status": "string",                 // Status of the service provider (e.g., active, inactive, suspended)
+  "createdAt": "string",              // Date when the service provider account was created
+  "updatedAt": "string"               // Date when the service provider account was last updated
+}
+
+
